@@ -17,6 +17,3 @@ Here are some of the facts about me
 * Flutter
 * Data Science and Machine Learning.
 * Docker
-
-
-[![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanket9918&show_icons=True&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
