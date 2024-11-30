@@ -11,9 +11,3 @@ Here are some of the facts about me
 - 📫 You can reach me at sanketmohapatra13@gmail.com on my [LinkedIn](https://www.linkedin.com/in/sanket-mohapatra-b10661176/).
 - 😄 Pronouns: He/Him
 - ⚡ Strong believer of "If it works don t touch it but dont forget to test it."
-
-## Technologies I Love
-* Web (MERN)
-* Flutter
-* Data Science and Machine Learning.
-* Docker
